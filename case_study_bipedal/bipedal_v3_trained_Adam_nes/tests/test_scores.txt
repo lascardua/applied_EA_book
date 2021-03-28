@@ -1,0 +1,36 @@
+
+
+ --- Test results of BipedalWalker-v3 for 100 test episodes.
+timestamp        : 2020-05-03 14:03:47.437741
+mean : 304.983370
+std  : 2.004521
+
+ --- Test results of BipedalWalker-v3 for 100 test episodes.
+timestamp        : 2020-05-03 14:18:37.961268
+mean : 305.223261
+std  : 2.103351
+
+ --- Test results of BipedalWalker-v3 for 100 test episodes.
+timestamp        : 2020-05-03 18:41:04.844728
+mean : 305.323607
+std  : 1.894808
+
+ --- Test results of BipedalWalker-v3 for 100 test episodes.
+timestamp        : 2020-05-05 11:00:28.363212
+mean : 305.064069
+std  : 2.211889
+
+ --- Test results of BipedalWalker-v3 for 100 test episodes.
+timestamp        : 2020-05-05 11:02:54.882656
+mean : 305.041030
+std  : 1.713347
+
+ --- Test results of BipedalWalker-v3 for 100 test episodes.
+timestamp        : 2020-10-06 12:06:55.992450
+mean : 305.150697
+std  : 1.687397
+
+ --- Test results of BipedalWalker-v3 for 100 test episodes.
+timestamp        : 2020-10-06 12:39:10.016096
+mean : 305.268734
+std  : 2.031116
